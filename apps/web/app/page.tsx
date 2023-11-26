@@ -1,10 +1,10 @@
-import { Button } from "@ui/components/button";
+import { Header } from "@/components/header";
 
 export default function Page() {
   return (
     <>
-      <h1>Web</h1>
-      <Button>Click me</Button>
+      <Header />
+      <main className="px-4"></main>
     </>
   );
 }
