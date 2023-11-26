@@ -4,6 +4,7 @@ import {
   ShoppingCartIcon,
 } from "@heroicons/react/24/outline";
 import { Avatar, AvatarFallback, AvatarImage } from "ui/components/ui/avatar";
+import { Navigation } from "../navigation";
 import NavItem from "../navigation/nav-item";
 import { Search } from "../search";
 
@@ -11,9 +12,9 @@ interface Props {}
 
 export default function Header({}: Props) {
   return (
-    <header className="p-4">
+    <header>
       {/* search */}
-      <div className="flex items-center gap-4 justify-center">
+      <div className="flex items-center gap-4 justify-center border-b border-gray-400 py-4 px-6">
         <h1 className="text-2xl">Learnalo</h1>
         <NavItem href="/">Categories</NavItem>
         <Search />
@@ -38,7 +39,7 @@ export default function Header({}: Props) {
         </div>
       </div>
       {/* main nav */}
-      <nav></nav>
+      <Navigation />
     </header>
   );
 }
