@@ -1,0 +1,260 @@
+{
+  "courseDetail": {
+    "title": "Ultimate AWS Certified Solutions Architect Associate SAA-C03",
+    "description": "Full Practice Exam | Learn Cloud Computing | Pass the AWS Certified Solutions Architect Associate Certification SAA-C03!",
+    "author": "Stephane Mareek",
+    "lastUpdated": "10/2023",
+    "language": "English",
+    "translations": [
+      "English [automatic]",
+      "Spanish [CC]",
+      "German [automatic]",
+      "Bulgarian [automatic]",
+      "Czech [automatic]",
+      "Simplified Chinese [automatic]",
+      "Korean [automatic]",
+      "Danish [automatic]",
+      "Slovak [automatic]",
+      "Estonian [automatic]",
+      "Finnish [automatic]",
+      "French [automatic]",
+      "Greek [automatic]",
+      "Dutch [automatic]",
+      "Hungarian [automatic]",
+      "Indonesian [automatic]",
+      "Italian [automatic]",
+      "Japanese [automatic]",
+      "Latvian [automatic]",
+      "Lithuanian [automatic]",
+      "Portuguese [automatic]",
+      "Romanian [automatic]",
+      "Swedish [automatic]",
+      "Thai [automatic]",
+      "Ukrainian [automatic]",
+      "Vietnamese [automatic]"
+    ]
+  },
+  "whatYouWillLearnItems": [
+    "FULLY UPDATED FOR SAA-C03: Pass the AWS Certified Solutions Architect Associate Certification",
+    "Full Practice Exam with Explanations included!",
+    "All 800+ slides available as downloadable PDF",
+    "Perform Real-World Solution Architecture on AWS",
+    "Learn the AWS Fundamentals (EC2, ELB, ASG, RDS, ElastiCache, S3)",
+    "Learn the Serverless Fundamentals (Lambda, DynamoDB, Cognito, API Gateway)",
+    "Analyze 10+ Solution Architectures (traditional & serverless)",
+    "Understand the Well Architected Framework, Disaster Recovery",
+    "Master all the differences of Databases on AWS",
+    "Secure your entire AWS Cloud using KMS, IAM Policies & SSM"
+  ],
+  "courseContent": [
+    {
+      "title": "Section 1: Introduction to AWS",
+      "lectures": [
+        {
+          "title": "Welcome to AWS",
+          "id": "lecture1",
+          "type": "video",
+          "minutes": 9,
+          "preview": false
+        },
+        {
+          "title": "History of AWS",
+          "id": "lecture2",
+          "type": "video",
+          "minutes": 12,
+          "preview": true
+        },
+        {
+          "title": "AWS Basics",
+          "id": "lecture3",
+          "type": "text",
+          "minutes": 6,
+          "preview": false
+        }
+      ]
+    },
+    {
+      "title": "Section 2: AWS Fundamentals",
+      "lectures": [
+        {
+          "title": "EC2 Instances",
+          "id": "lecture4",
+          "type": "video",
+          "minutes": 18,
+          "preview": true
+        },
+        {
+          "title": "S3 Deep Dive",
+          "id": "lecture5",
+          "type": "video",
+          "preview": true,
+          "minutes": 15
+        },
+        {
+          "title": "Hands-on with ELB",
+          "id": "lecture6",
+          "type": "video",
+          "minutes": 2
+        }
+      ]
+    }
+  ],
+  "courseRequirements": [
+    "Know the basics of IT",
+    "No AWS Cloud experience is necessary, we'll use the AWS Free Tier",
+    "Windows / Linux / Mac OS X Machine"
+  ],
+  "courseDescription": "<div><p><strong>Welcome!&nbsp;I'm here to help you prepare and PASS the NEWEST AWS&nbsp;Certified Solutions Architect Associate SAA-C03 exam [Course FULLY&nbsp;updated] </strong></p><p><br></p><p>----------------- Updates List ------------------</p><p><strong>[May 2023 Update]:</strong>&nbsp;Over 20 videos have been refreshed/added to keep up with the AWS&nbsp;UI changes and exam changes</p><p><strong>[September 2022 Update - SAA-C03]:</strong>&nbsp;Over 80 videos have been updated to reflect the NEW SAA-C03 exam</p><p><strong>[April 2022 Update]:</strong>&nbsp;Over 30 videos have been refreshed/added to keep up with the AWS&nbsp;UI changes and exam changes</p><p><strong>[October 2021 Update]:</strong> Over 100 videos have been refreshed/added to keep up with the AWS&nbsp;UI changes and exam changes</p><p><strong>[April 2021 Update]:</strong> Over 100 videos have been refreshed/added to keep up with the AWS&nbsp;UI changes and exam changes</p><p><strong>[Dec 2020 Update]:</strong> The S3 section has been entirely re-recorded to accommodate for the AWS&nbsp;UI changes</p><p><strong>[May 2020 Update]: </strong>20+&nbsp;videos have been updated to keep up with AWS&nbsp;UI&nbsp;changes. </p><p><strong>[February 2020 Update - SAA-C02]:</strong>&nbsp;The course has been updated for<strong> the NEW 2020 exam version</strong>. Overall, <strong>80 videos have been added or updated</strong>, and the course is now <strong>22 hours long</strong>. Happy learning! </p><p><strong>[July 2019 Update]:</strong>&nbsp;Few lectures refreshed, including AWS&nbsp;Budgets and EC2 placement groups.</p><p>-----------------------------------</p><p><strong>Beginners welcome:&nbsp;no need to know anything about AWS!</strong></p><p><strong>The AWS&nbsp;Certified Solutions Architect Associate SAA-C03 certification is one of the most challenging exams</strong>. It's great at assessing how well you understand not just AWS, but making sure you are making the best architectural decisions based on situations, which makes this certification incredibly valuable to have and pass. Rest assured, <strong>I've passed it myself with a score of 982 out of 1000</strong>. Yes, you read that right, I&nbsp;only made one mistake!&nbsp;Next, <strong>I&nbsp;want to help YOU pass the AWS&nbsp;Certified Solutions Architect Associate certification with flying colors</strong>. </p><p><em>This is going to be a long journey, but passing the AWS&nbsp;Certified Solutions Architect Associate exam will be worth it! </em></p><p><br></p><p><strong>This AWS&nbsp;Certified Solutions Architect Associate course is different from the other ones you'll find on Udemy. Dare I say, better (but you'll judge!)</strong></p><ul><li><p>We will spend over <strong>three hours discussing solution architecture</strong> on AWS&nbsp;in depth.&nbsp;</p></li><li><p>It covers in-depth all the<strong> new topics</strong> on the AWS&nbsp;Certified Solutions Architect Associate SAA-C02 exam</p></li><li><p>It's packed with <strong>practical knowledge</strong> on how to use AWS inside and out as a solutions architect</p></li><li><p>It teaches you <strong>how to prepare for the AWS&nbsp;exam</strong> <strong>AND</strong> <strong>how to prepare for the real world</strong></p></li><li><p>It's a <strong>logical progression of topics</strong>, not a laundry list of random services</p></li><li><p>It's<strong> fast-paced and to the point</strong> </p></li><li><p>It has <strong>professional subtitles</strong></p></li><li><p>All <strong>800+ slides available</strong> <strong>as downloadable PDF</strong></p></li></ul><p><br></p><p><strong>Concretely, here's what we'll learn to pass the AWS&nbsp;Certified Solutions Architect Associate exam:</strong></p><ul><li><p>The AWS&nbsp;Fundamentals:&nbsp;IAM, EC2, Load Balancing, Auto Scaling, EBS, EFS, Route 53, RDS, ElastiCache, S3, CloudFront</p></li><li><p>The AWS&nbsp;CLI:&nbsp;CLI setup, usage on EC2, best practices, SDK, advanced usage</p></li><li><p>In-Depth Database comparison:&nbsp;RDS,&nbsp;Aurora, DynamoDB, ElastiCache, DocumentDB, Neptune, Keyspaces, QLDB, Timestream</p></li><li><p>Analytics services comparison:&nbsp;Athena, EMR, Redshift, OpenSearch, Lake Formation, Kinesis Data Analytics, MSK, QuickSight, Glue</p></li><li><p>Machine Learning services: Rekognition, Transcribe, Polly, Translate, Lex, Comprehend, SageMaker, Forecast, Kendra, Personalize, Textract.</p></li><li><p>Monitoring, Troubleshooting &amp;&nbsp;Audit:&nbsp;CloudWatch, CloudTrail, EventBridge, Config</p></li><li><p>AWS&nbsp;Integration &amp;&nbsp;Messaging:&nbsp;SQS, SNS, Kinesis Amazon MQ</p></li><li><p>AWS&nbsp;Serverless:&nbsp;AWS&nbsp;Lambda, DynamoDB, API&nbsp;Gateway, Step Functions</p></li><li><p>AWS&nbsp;Containers Services:&nbsp;ECS, ECR, EKS, App&nbsp;Runner</p></li><li><p>AWS&nbsp;Security best practices:&nbsp;KMS, SSM Parameter Store, Secrets Manager, IAM Policies, Cognito, Shield, WAF, Firewall Manager, SSO, Certificate Manager, GuardDuty, Inspector, Macie</p></li><li><p>VPC&nbsp;&amp;&nbsp;Networking in depth</p></li><li><p>Disaster Recovery &amp;&nbsp;Migrations:&nbsp;DMS, Aurora &amp;&nbsp;RDS&nbsp;Migrations, AWS&nbsp;Backup, Application Migration Service, VMware Cloud on AWS</p></li><li><p>AWS&nbsp;Other Services Overview:&nbsp;CloudFormation, SES, Pinpoint, SSM&nbsp;Session Manager, Elastic Transcoder, Batch, AppFlow...</p></li><li><p>Tips to ROCK the exam</p></li></ul><p><br></p><p><strong>This AWS&nbsp;Certified Solutions Architect Associate course is full of opportunities to apply your knowledge: </strong></p><ul><li><p>There are many <strong>hands-on lectures</strong> in every section</p></li><li><p>There are <strong>quizzes</strong> at the end of every section</p></li><li><p>There's an <strong>AWS&nbsp;Certified Solutions Architect Associate practice exam</strong> at the end of the course </p></li><li><p>We'll be using the <strong>AWS&nbsp;Free Tier</strong> most of the time</p></li><li><p>I'll be showing you how to go beyond the AWS&nbsp;Free Tier (you know... the real world!)</p></li></ul><p><br></p><p>-----------------------------------</p><p><strong>Instructor</strong></p><p>My name is Stéphane Maarek,&nbsp;I am passionate about Cloud Computing, and I will be your instructor in this course. I teach about AWS certifications, focusing on helping my students improve their professional proficiencies in AWS.</p><p>I have already taught 1,500,000+ students and gotten 500,000+ reviews throughout my career in designing and delivering these certifications and courses!</p><p>With AWS becoming the centerpiece of today's modern IT architectures, I've decided it's time for students to learn how to be an AWS Solutions Architect Associate properly. So, let’s kick start the course! You are in good hands!</p><p><br></p><p>---------------------------------</p><p><strong>This course also comes with:</strong></p><ul><li><p>Lifetime access to all future updates</p></li><li><p>A responsive instructor in the Q&amp;A Section</p></li><li><p>Udemy Certificate of Completion Ready for Download</p></li><li><p>A 30 Day 'No Questions Asked' Money Back Guarantee!</p></li></ul><p><strong>Join me in this course if you want to pass the AWS Certified Solutions Architect Associate Certification SAA-C03 Exam and master the AWS platform!</strong></p></div>",
+  "featureReview": {
+    "reviewer": { "name": "Elam P.", "courses": 14, "reviews": 9 },
+    "review": "Excellent course for beginners. Helped me to learn and understand AWS solutions architect - associate contents very well. Some parts from dev and sysops course made this couse unique. I found the course metrial very useful. Andalso stephanes English is very much understandable to me. If someone gonna take this course practice after every video end. Thanks stephane😊👍",
+    "date": "2 years ago"
+  },
+  "alsoBoughtCourses": [
+    {
+      "image": {
+        "url": "https://img-c.udemycdn.com/course/50x50/2789348_065c_4.jpg",
+        "altText": "some image"
+      },
+      "title": "Ultimate AWS Certified Solutions Architect Professional 2023",
+      "rating": 4.7,
+      "students": 140434,
+      "price": { "current": "$ 44.9", "previous": "$ 149.9" },
+      "duration": 16.5,
+      "lastUpdated": "12/2023",
+      "tags": ["BestSeller"]
+    },
+    {
+      "image": {
+        "url": "https://img-c.udemycdn.com/course/50x50/2789348_065c_4.jpg",
+        "altText": "some image"
+      },
+      "title": "Ultimate AWS Certified Solutions Architect Professional 2023",
+      "rating": 4.7,
+      "students": 140434,
+      "price": { "current": "$ 44.9", "previous": "$ 149.9" },
+      "duration": 16.5,
+      "lastUpdated": "12/2023",
+      "tags": ["BestSeller"]
+    },
+    {
+      "image": {
+        "url": "https://img-c.udemycdn.com/course/50x50/2789348_065c_4.jpg",
+        "altText": "some image"
+      },
+      "title": "Ultimate AWS Certified Solutions Architect Professional 2023",
+      "rating": 4.7,
+      "students": 140434,
+      "price": { "current": "$ 44.9", "previous": "$ 149.9" },
+      "duration": 16.5,
+      "lastUpdated": "12/2023",
+      "tags": ["BestSeller"]
+    },
+    {
+      "image": {
+        "url": "https://img-c.udemycdn.com/course/50x50/2789348_065c_4.jpg",
+        "altText": "some image"
+      },
+      "title": "Ultimate AWS Certified Solutions Architect Professional 2023",
+      "rating": 4.7,
+      "students": 140434,
+      "price": { "current": "$ 44.9", "previous": "$ 149.9" },
+      "duration": 16.5,
+      "lastUpdated": "12/2023",
+      "tags": ["BestSeller"]
+    },
+    {
+      "image": {
+        "url": "https://img-c.udemycdn.com/course/50x50/2789348_065c_4.jpg",
+        "altText": "some image"
+      },
+      "title": "Ultimate AWS Certified Solutions Architect Professional 2023",
+      "rating": 4.7,
+      "students": 140434,
+      "price": { "current": "$ 44.9", "previous": "$ 149.9" },
+      "duration": 16.5,
+      "lastUpdated": "12/2023",
+      "tags": ["BestSeller"]
+    },
+    {
+      "image": {
+        "url": "https://img-c.udemycdn.com/course/50x50/2789348_065c_4.jpg",
+        "altText": "some image"
+      },
+      "title": "Ultimate AWS Certified Solutions Architect Professional 2023",
+      "rating": 4.7,
+      "students": 140434,
+      "price": { "current": "$ 44.9", "previous": "$ 149.9" },
+      "duration": 16.5,
+      "lastUpdated": "12/2023",
+      "tags": ["BestSeller"]
+    },
+    {
+      "image": {
+        "url": "https://img-c.udemycdn.com/course/50x50/2789348_065c_4.jpg",
+        "altText": "some image"
+      },
+      "title": "Ultimate AWS Certified Solutions Architect Professional 2023",
+      "rating": 4.7,
+      "students": 140434,
+      "price": { "current": "$ 44.9", "previous": "$ 149.9" },
+      "duration": 16.5,
+      "lastUpdated": "12/2023",
+      "tags": ["BestSeller"]
+    },
+    {
+      "image": {
+        "url": "https://img-c.udemycdn.com/course/50x50/2789348_065c_4.jpg",
+        "altText": "some image"
+      },
+      "title": "Ultimate AWS Certified Solutions Architect Professional 2023",
+      "rating": 4.7,
+      "students": 140434,
+      "price": { "current": "$ 44.9", "previous": "$ 149.9" },
+      "duration": 16.5,
+      "lastUpdated": "12/2023",
+      "tags": ["BestSeller"]
+    },
+    {
+      "image": {
+        "url": "https://img-c.udemycdn.com/course/50x50/2789348_065c_4.jpg",
+        "altText": "some image"
+      },
+      "title": "Ultimate AWS Certified Solutions Architect Professional 2023",
+      "rating": 4.7,
+      "students": 140434,
+      "price": { "current": "$ 44.9", "previous": "$ 149.9" },
+      "duration": 16.5,
+      "lastUpdated": "12/2023",
+      "tags": ["BestSeller"]
+    },
+    {
+      "image": {
+        "url": "https://img-c.udemycdn.com/course/50x50/2789348_065c_4.jpg",
+        "altText": "some image"
+      },
+      "title": "Ultimate AWS Certified Solutions Architect Professional 2023",
+      "rating": 4.7,
+      "students": 140434,
+      "price": { "current": "$ 44.9", "previous": "$ 149.9" },
+      "duration": 16.5,
+      "lastUpdated": "12/2023",
+      "tags": ["BestSeller"]
+    }
+  ],
+  "courseCardContent": {
+    "image": {
+      "src": "https://img-c.udemycdn.com/course/750x422/2196488_8fc7_10.jpg",
+      "altText": "sample-image"
+    },
+    "courseItems": [
+      "54 hours on-demand video",
+      "Assignments",
+      "222 articles",
+      "153 downloadable resources",
+      "Access on mobile and TV",
+      "Full lifetime access",
+      "Certificate of completion"
+    ]
+  }
+}

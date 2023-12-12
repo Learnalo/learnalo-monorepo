@@ -8,9 +8,11 @@ import { Navigation } from "../navigation";
 import NavItem from "../navigation/nav-item";
 import { Search } from "../search";
 
-interface Props {}
+interface Props {
+  showNavigation?: boolean;
+}
 
-export default function Header({}: Props) {
+export default function Header({ showNavigation = true }: Props) {
   return (
     <header>
       {/* search */}
@@ -39,7 +41,7 @@ export default function Header({}: Props) {
         </div>
       </div>
       {/* main nav */}
-      <Navigation />
+      {showNavigation && <Navigation />}
     </header>
   );
 }
